@@ -1,7 +1,6 @@
 # MERN Stack Github
 > _Yaser Muhammed Jaser Saleh_
 
-
 **Description :**
 A MERN(MongoDB, Express, React and Node.js)stack Github repos project that includes adding,deleting and status switching functionalities.
 
